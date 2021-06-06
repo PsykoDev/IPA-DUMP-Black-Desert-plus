@@ -1,0 +1,9 @@
+exports.__esModule = true;
+exports.KEY_PREFIX = 'persist:';
+exports.FLUSH = 'persist/FLUSH';
+exports.REHYDRATE = 'persist/REHYDRATE';
+exports.PAUSE = 'persist/PAUSE';
+exports.PERSIST = 'persist/PERSIST';
+exports.PURGE = 'persist/PURGE';
+exports.REGISTER = 'persist/REGISTER';
+exports.DEFAULT_VERSION = -1;
